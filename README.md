@@ -1,2 +1,2 @@
-# 2021 Erd&#337; &#x151; &odblac;s Instute C&#337; &#x151; &odblac;de
+# 2021 Erd&#337;s Instute C&#337;;de
 ## Data Science Boot Camp
