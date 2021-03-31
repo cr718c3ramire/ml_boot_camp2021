@@ -13,4 +13,4 @@ permissions and limitations under the License.
 
 Redistribution of the material contained in this repository is 
 conditional on acknowledgement of Matthew Tyler Osborne, Ph.D.'s
-original authorship and sponsorship of the Erd&#337s Institute.
+original authorship and sponsorship of the Erd&#337;s Institute.
