@@ -21,7 +21,8 @@ For those of you that are looking to tackle all of the notebooks in this folder,
 Perhaps even more importantly, <i>don't get discouraged!</i> Coding is hard and it takes time to get comfortable with something new. Be kind to yourself as you're going through and ask for help if you need it.
 
 
-
+-----------------------------------------------------------
+Copyright Info
 
 This was written for the Erd&#337;s Institute C&#337;de Data Science Boot Camp by Matthew Osborne, Ph. D., 2021.
 

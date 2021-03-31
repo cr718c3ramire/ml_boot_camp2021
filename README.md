@@ -8,7 +8,8 @@ Contents:
 
 
 
-
+-----------------------------------------------------------
+Copyright Info
 
 This repository was written for the Erd&#337;s Institute C&#337;de Data Science Boot Camp by Matthew Osborne, Ph. D., 2021.
 
