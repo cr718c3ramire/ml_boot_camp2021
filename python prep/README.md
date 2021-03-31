@@ -19,3 +19,10 @@ The notebooks in this folder are meant to be completed in the following order:
 For those of you that are looking to tackle all of the notebooks in this folder, <b>I encourage you to space this out</b>. This is a lot of content, especially if you are new to python. You want to be able to digest it in palatable bites. 
 
 Perhaps even more importantly, <i>don't get discouraged!</i> Coding is hard and it takes time to get comfortable with something new. Be kind to yourself as you're going through and ask for help if you need it.
+
+
+
+
+This was written for the Erd&#337;s Institute C&#337;de Data Science Boot Camp by Matthew Osborne, Ph. D., 2021.
+
+Redistribution of the material contained in this repository is conditional on acknowledgement of Matthew Tyler Osborne, Ph.D.'s original authorship and sponsorship of the Erdős Institute as subject to the license (see License.md)
