@@ -13,6 +13,14 @@ C&#337;de Data Science Boot Camp.
 - Day 1: 
 	- Lecture Content: All Data Gathering Lectures
 	- Homework Content: All Data Gathering Homework
+- Day 2:
+    - Lecture Content: Regression
+        - Exploratory vs. Predictive Modeling
+        - Simple Linear Regression
+        - Multiple Linear Regression
+    - Homework Content: Regression
+        - Simple Linear Regression
+        - Multiple Linear Regression (partial)
 
 
 -----------------------------------------------------------
